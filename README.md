@@ -13,7 +13,7 @@ ayazdoruck@github:~$ whoami
 Ayaz Doruk:
   role:     "Software Developer"
   location: "Turkey 🇹🇷"
-  focus:    ["Web", "Mobile (React Native / Expo)"]
+  focus:    ["Full Stack Web", "Server Management"]
   currently: "Building apps that ship"
   website:  "ayazdoruck.site"
 ```
@@ -40,23 +40,21 @@ ayazdoruck@github:~$ cat stack.txt
 ayazdoruck@github:~$ git log --stat
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayazdoruck&show_icons=true&hide_border=true&count_private=true&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazdoruck&layout=compact&hide_border=true&title_color=00ff9c&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="34%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayazdoruck&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" width="83%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayazdoruck&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" width="60%" />
 
 ```bash
 ayazdoruck@github:~$ ./connect.sh
 ```
 
 <p>
-  <a href="https://ayazdoruck.site/"><img src="https://img.shields.io/badge/website-00ff9c?style=flat-square&logo=firefox&logoColor=0d1117" /></a>
-  <a href="https://instagram.com/ayazdoruck/"><img src="https://img.shields.io/badge/instagram-1a1b27?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
-  <a href="https://www.buymeacoffee.com/pahiy"><img src="https://img.shields.io/badge/buy_me_a_coffee-1a1b27?style=flat-square&logo=buymeacoffee&logoColor=FFDD00" /></a>
+  <a href="https://ayazdoruck.site/"><img src="https://img.shields.io/badge/My website-174524?style=flat-square&logo=firefox&logoColor=0d1117" /></a>
+  <a href="https://instagram.com/ayazdoruck/"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+  <a href="https://www.buymeacoffee.com/pahiy"><img src="https://img.shields.io/badge/Buy_me_a_coffee-1a1b27?style=flat-square&logo=buymeacoffee&logoColor=FFDD00" /></a>
 </p>
 
 ```bash
 ayazdoruck@github:~$ exit
 logout
-[Process completed] — Happy Coding 👨‍💻
+
+[Process completed] — Bye!
 ```
