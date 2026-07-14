@@ -1,64 +1,62 @@
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/ayazdoruck?v=1)
-
-<!-- Title -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://ayazdoruck.site/">Ayaz Doruk</a></b>
-        </samp>
-</h3>
-<br>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff9c&height=140&section=header&text=ayazdoruck%20~%20zsh&fontColor=00ff9c&fontSize=28&fontAlignY=38&desc=%40ayazdoruck%20%3A%20~%20%24&descAlignY=58&descSize=16" width="100%" />
 
 <p align="center">
-        <!-- Intro -->
-        <samp>
-                「 I'm a software developer from <b>Turkey</b> 」
-                <br>
-                「 Building web & mobile apps with React and React Native 」
-                <br>
-                <br>
-        </samp>
-        <!-- Technologies -->
-        <a href="https://github.com/ayazdoruck?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"></a>
-        <a href="https://github.com/ayazdoruck?tab=repositories" target="_blank"><img alt="TypeScript"
-                        src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"></a>
-        <a href="https://github.com/ayazdoruck?tab=repositories" target="_blank"><img alt="React"
-                        src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=React&logoColor=white"></a>
-        <a href="https://github.com/ayazdoruck?tab=repositories" target="_blank"><img alt="Node.js"
-                        src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"></a>
-        <a href="https://github.com/ayazdoruck?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-        <a href="https://github.com/ayazdoruck?tab=repositories" target="_blank"><img alt="Arduino"
-                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=ayazdoruck&label=visitors&color=00ff9c&style=flat-square" alt="visitors" />
 </p>
 
-<!-- Details Section -->
-<details align="center">
-    <summary> <samp>&#9776; More</samp></summary>
-    <p align="center">
-        <br>
-        <!-- Stats Widget -->
-        <img alt="Ayaz Doruk's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=ayazdoruck&show_icons=true&theme=radical" />
-        <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <a href="https://ayazdoruck.site/" target="_blank"><img alt="Website"
-                src="https://img.shields.io/badge/-Website-FF7139?style=flat-square&logo=Firefox&logoColor=white"></a>
-        <a href="https://instagram.com/ayazdoruck/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-        <a href="https://www.buymeacoffee.com/pahiy" target="_blank"><img alt="Buy Me A Coffee"
-                src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black"></a>
-    </p>
-</details>
-<br>
+```bash
+ayazdoruck@github:~$ whoami
+```
 
-<!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding 👨‍💻"
-    </p>
-</samp>
+```yaml
+Ayaz Doruk:
+  role:     "Software Developer"
+  location: "Turkey 🇹🇷"
+  focus:    ["Web", "Mobile (React Native / Expo)"]
+  currently: "Building apps that ship"
+  website:  "ayazdoruck.site"
+```
+
+```bash
+ayazdoruck@github:~$ cat stack.txt
+```
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-1a1b27?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-1a1b27?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-1a1b27?style=flat-square&logo=expo&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Node.js-1a1b27?style=flat-square&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Django-1a1b27?style=flat-square&logo=django&logoColor=44B78B" />
+  <img src="https://img.shields.io/badge/Git-1a1b27?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Linux-1a1b27?style=flat-square&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Arduino-1a1b27?style=flat-square&logo=arduino&logoColor=00979D" />
+</p>
+
+```bash
+ayazdoruck@github:~$ git log --stat
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=ayazdoruck&show_icons=true&hide_border=true&count_private=true&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&bg_color=0d1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazdoruck&layout=compact&hide_border=true&title_color=00ff9c&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="34%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayazdoruck&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" width="83%" />
+
+```bash
+ayazdoruck@github:~$ ./connect.sh
+```
+
+<p>
+  <a href="https://ayazdoruck.site/"><img src="https://img.shields.io/badge/website-00ff9c?style=flat-square&logo=firefox&logoColor=0d1117" /></a>
+  <a href="https://instagram.com/ayazdoruck/"><img src="https://img.shields.io/badge/instagram-1a1b27?style=flat-square&logo=instagram&logoColor=E4405F" /></a>
+  <a href="https://www.buymeacoffee.com/pahiy"><img src="https://img.shields.io/badge/buy_me_a_coffee-1a1b27?style=flat-square&logo=buymeacoffee&logoColor=FFDD00" /></a>
+</p>
+
+```bash
+ayazdoruck@github:~$ exit
+logout
+[Process completed] — Happy Coding 👨‍💻
+```
