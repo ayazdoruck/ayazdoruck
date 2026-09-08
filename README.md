@@ -9,7 +9,7 @@ ayazdoruck@github:~$ whoami
 ```
 
 ```yaml
-Ayaz Doruk:
+pahiy:
   role:      "Software Developer"
   location:  "Turkey 🇹🇷"
   focus:     ["Full Stack Web", "Mobile", "Server Management"]
