@@ -21,14 +21,14 @@ Ayaz Doruk:
 ayazdoruck@github:~$ ls -la projects/
 ```
 
-| Proje | Ne yapar | Stack |
+| Project | What it does | Stack |
 | :--- | :--- | :--- |
-| **[SyntaRay](https://github.com/ayazdoruck/syntaray)** · [canlı ↗](https://syntaray.vercel.app) | Kod parçacıklarını yüksek kaliteli görsellere dönüştüren minimalist araç | Next.js · TypeScript · Tailwind |
-| **[Bslend](https://github.com/ayazdoruck/bslend)** | Yerel ağdaki cihazları otomatik bulup dosya aktaran çapraz platform uygulama | Flutter · Dart |
-| **[pahiy-passwords](https://github.com/ayazdoruck/pahiy-passwords)** | Biyometrik girişli mobil şifre yöneticisi (iOS + Android) | React Native · Expo |
-| **[steam-hour-bot](https://github.com/ayazdoruck/steam-hour-bot)** | Web arayüzlü Steam saat biriktirme botu — çoklu oyun, Steam Guard, tema desteği | Node.js · Express · WebSocket |
-| **[growtopia-world-saver](https://github.com/ayazdoruck/growtopia-world-saver)** | Growtopia dünyalarını JSON olarak dışa aktaran oyun içi Lua menüsü | Lua |
-| **[rootme](https://github.com/ayazdoruck/rootme)** | Termux üzerinde proot ile Kali Linux kuran otomasyon aracı | Shell · proot |
+| **[SyntaRay](https://github.com/ayazdoruck/syntaray)** · [live ↗](https://syntaray.vercel.app) | Minimalist tool that turns code snippets into high-quality images | Next.js · TypeScript · Tailwind |
+| **[Bslend](https://github.com/ayazdoruck/bslend)** | Cross-platform app that discovers nearby devices and transfers files over the local network | Flutter · Dart |
+| **[pahiy-passwords](https://github.com/ayazdoruck/pahiy-passwords)** | Mobile password manager with biometric unlock (iOS + Android) | React Native · Expo |
+| **[steam-hour-bot](https://github.com/ayazdoruck/steam-hour-bot)** | Steam hour-idling bot with a web interface — multi-game, Steam Guard, themes | Node.js · Express · WebSocket |
+| **[growtopia-world-saver](https://github.com/ayazdoruck/growtopia-world-saver)** | In-game Lua menu that exports Growtopia worlds as JSON | Lua |
+| **[rootme](https://github.com/ayazdoruck/rootme)** | Automation tool that provisions Kali Linux on Termux via proot | Shell · proot |
 
 ```bash
 ayazdoruck@github:~$ cat stack.txt
