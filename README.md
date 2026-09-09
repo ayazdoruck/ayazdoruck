@@ -1,6 +1,6 @@
 <div align="center">
 
-# ayaz doruk şenel
+# ayazdoruck
 Full-stack developer focused on building clean tools and applications that ship[cite: 1].
 
 <br>
