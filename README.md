@@ -1,7 +1,7 @@
 <div align="center">
 
 # ayazdoruck
-Full-stack developer focused on building clean tools and applications that ship[cite: 1].
+Full-stack developer focused on building clean tools and applications that ship.
 
 <br>
 
@@ -44,12 +44,12 @@ Full-stack developer focused on building clean tools and applications that ship[
     </td>
     <td width="33%" valign="top">
       <b><a href="https://github.com/ayazdoruck/rootme">rootme</a></b><br>
-      <sub>Automated Kali Linux orchestration utility on Termux via proot.</sub><br><br>
-      <code>Shell</code> <code>proot</code>
+      <sub>Automated Kali Linux orchestration and server provisioning utility.</sub><br><br>
+      <code>Linux</code> <code>Shell</code>
     </td>
   </tr>
 </table>
 
-### // stack
+### // stack & infrastructure
 
-<code>JavaScript</code> &nbsp;&bull;&nbsp; <code>TypeScript</code> &nbsp;&bull;&nbsp; <code>React</code> &nbsp;&bull;&nbsp; <code>Next.js</code> &nbsp;&bull;&nbsp; <code>Flutter</code> &nbsp;&bull;&nbsp; <code>Node.js</code> &nbsp;&bull;&nbsp; <code>Python</code> &nbsp;&bull;&nbsp; <code>Linux</code> &nbsp;&bull;&nbsp; <code>Git</code>
+<code>JavaScript</code> &nbsp;&bull;&nbsp; <code>TypeScript</code> &nbsp;&bull;&nbsp; <code>React</code> &nbsp;&bull;&nbsp; <code>Next.js</code> &nbsp;&bull;&nbsp; <code>Node.js</code> &nbsp;&bull;&nbsp; <code>Python</code> &nbsp;&bull;&nbsp; <code>Linux</code> &nbsp;&bull;&nbsp; <code>Docker</code> &nbsp;&bull;&nbsp; <code>Server Management</code> &nbsp;&bull;&nbsp; <code>Git</code>
